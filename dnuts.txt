@@ -1,0 +1,12 @@
+I made the local storage work again. Now, i 
+need to implement the function that when i click
+on a text that has been in the memory already 
+it gets deleted.
+
+When i click on the pencil, all the items
+that were in the div get deleted. Good. Now
+it's time to make the text inside the 
+"all text" element
+
+Make the text so that when u click, the text
+get underlined.
